@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Tool Name: Tool-X
+
+# Define default configuration directory
+conf_dir="/etc"
+
+# Check for Termux environment
+if [ -d /data/data/com.termux/files/usr/etc ]; then
+  conf_dir="/data/data/com.termux/files/usr/etc"
+fi
+
+# Check for alternative configuration directory
+if [ -d /usr/etc ]; then
+  conf_dir="/usr/etc"
+fi
+
+# Construct the full path to the Tool-X script
+tool_x_path="$conf_dir/Tool-X/Tool-X.py"
+
+# Check if sudo is available and use it if necessary
+if [ -e /usr/lib/sudo ]; then
+  sudo python3 "$tool_x_path"
+else
+  python3 "$tool_x_path"
+fi
+
+exit 0

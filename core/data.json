@@ -3,7 +3,7 @@
     "name": "4nonimizer",
     "package_name": "4nonimizer",
     "version": "1.0",
-    "category": ["anonymization"],
+    "category": ["privacy_anonymization"],
     "url": "https://github.com/Hackplayers/4nonimizer.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -21,7 +21,7 @@
     "name": "ADB-Toolkit",
     "package_name": "ADB-Toolkit",
     "version": "1.1",
-    "category": ["android_tools"],
+    "category": ["mobile_security"],
     "url": "https://github.com/ASHWIN990/ADB-Toolkit.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -39,7 +39,7 @@
     "name": "AndroBugs_Framework",
     "package_name": "AndroBugs_Framework",
     "version": "2.1",
-    "category": ["android_tools", "security"],
+    "category": ["mobile_security", "vulnerability_scanner"],
     "url": "https://github.com/AndroBugs/AndroBugs_Framework.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -48,7 +48,7 @@
     "name": "Androspy",
     "package_name": "Androspy",
     "version": "1.3",
-    "category": ["android_tools", "remote_access"],
+    "category": ["mobile_security", "remote_access"],
     "url": "https://github.com/TunisianEagles/Androspy.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -57,7 +57,7 @@
     "name": "AutoPixieWps",
     "package_name": "AutoPixieWps",
     "version": "1.2",
-    "category": ["wireless_tools"],
+    "category": ["wireless_testing"],
     "url": "https://github.com/nxxxu/AutoPixieWps.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -102,7 +102,7 @@
     "name": "BeeLogger",
     "package_name": "BeeLogger",
     "version": "1.1",
-    "category": ["logger"],
+    "category": ["forensics_tools"],
     "url": "https://github.com/4w4k3/BeeLogger.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -192,7 +192,7 @@
     "name": "Clickjacking-Tester",
     "package_name": "Clickjacking-Tester",
     "version": "1.0",
-    "category": ["security_testing"],
+    "category": ["vulnerability_scanner"],
     "url": "https://github.com/D4Vinci/Clickjacking-Tester.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -210,7 +210,7 @@
     "name": "CrawlBox",
     "package_name": "CrawlBox",
     "version": "1.0",
-    "category": ["web_crawling"],
+    "category": ["information_gathering"],
     "url": "https://github.com/abaykan/CrawlBox.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -219,7 +219,7 @@
     "name": "CredSniper",
     "package_name": "CredSniper",
     "version": "1.0",
-    "category": ["phishing"],
+    "category": ["social_engineering"],
     "url": "https://github.com/ustayready/CredSniper.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -318,7 +318,7 @@
     "name": "Dracnmap",
     "package_name": "Dracnmap",
     "version": "2.2",
-    "category": ["network_scanner"],
+    "category": ["network_scanning"],
     "url": "https://github.com/Screetsec/Dracnmap.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -327,7 +327,7 @@
     "name": "EagleEye",
     "package_name": "EagleEye",
     "version": "1.0",
-    "category": ["osint"],
+    "category": ["information_gathering"],
     "url": "https://github.com/ThoughtfulDev/EagleEye.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -354,7 +354,7 @@
     "name": "Email-Spammer",
     "package_name": "Email-Spammer",
     "version": "1.0",
-    "category": ["spamming"],
+    "category": ["social_engineering"],
     "url": "https://github.com/Juniorn1003/Email-Spammer.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -363,7 +363,7 @@
     "name": "Empire",
     "package_name": "Empire",
     "version": "3.6.3",
-    "category": ["post_exploitation"],
+    "category": ["maintaining_access"],
     "url": "https://github.com/EmpireProject/Empire.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -399,7 +399,7 @@
     "name": "FBUPv2.0",
     "package_name": "FBUPv2.0",
     "version": "1.0",
-    "category": ["social_media"],
+    "category": ["information_gathering"],
     "url": "https://github.com/mrSilent0598/FBUPv2.0.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -417,7 +417,7 @@
     "name": "Findsploit",
     "package_name": "Findsploit",
     "version": "1.0",
-    "category": ["exploit"],
+    "category": ["exploitation_tools"],
     "url": "https://github.com/1N3/Findsploit.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -426,7 +426,7 @@
     "name": "Gemail-Hack",
     "package_name": "Gemail-Hack",
     "version": "1.0",
-    "category": ["phishing"],
+    "category": ["social_engineering"],
     "url": "https://github.com/Ha3MrX/Gemail-Hack.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -444,7 +444,7 @@
     "name": "GoblinWordGenerator",
     "package_name": "GoblinWordGenerator",
     "version": "1.5",
-    "category": ["wordlist_generation"],
+    "category": ["password_attack"],
     "url": "https://github.com/UndeadSec/GoblinWordGenerator.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -543,7 +543,7 @@
     "name": "IPGeoLocation",
     "package_name": "IPGeoLocation",
     "version": "1.0",
-    "category": ["IP-Tracking tools"],
+    "category": ["ip_tracking"],
     "url": "https://github.com/maldevel/IPGeoLocation.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -642,7 +642,7 @@
     "name": "LITEDDOS",
     "package_name": "LITEDDOS",
     "version": "3.0",
-    "category": ["DDOS Attacks"],
+    "category": ["ddos_stress_testing"],
     "url": "https://github.com/4L13199/LITEDDOS.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -696,7 +696,7 @@
     "name": "MyServer",
     "package_name": "MyServer",
     "version": "1.0",
-    "category": ["Web Server's"],
+    "category": ["web_server"],
     "url": "https://github.com/Rajkumrdusad/MyServer.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -723,7 +723,7 @@
     "name": "PadBuster",
     "package_name": "PadBuster",
     "version": "0.3",
-    "category": ["Web Hacking"],
+    "category": ["web_application_security"],
     "url": "https://github.com/AonCyberLabs/PadBuster.git",
     "package_manager": "git",
     "dependency": ["perl", "git"]
@@ -759,7 +759,7 @@
     "name": "Planetwork-DDOS",
     "package_name": "Planetwork-DDOS",
     "version": "latest",
-    "category": ["DDOS Attacks", "Stress Testing"],
+    "category": ["ddos_stress_testing"],
     "url": "https://github.com/Hydra7/Planetwork-DDOS.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -822,7 +822,7 @@
     "name": "RED_HAWK",
     "package_name": "RED_HAWK",
     "version": "latest",
-    "category": ["Information Gathering", "Vulnerability Scanner"],
+    "category": ["information_gathering", "vulnerability_scanner"],
     "url": "https://github.com/Tuhinshubhra/RED_HAWK.git",
     "package_manager": "git",
     "dependency": ["php", "git"]
@@ -858,7 +858,7 @@
     "name": "Remot3d",
     "package_name": "Remot3d",
     "version": "latest",
-    "category": [null],
+    "category": ["remote_access"],
     "url": "https://github.com/KeepWannabe/Remot3d.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -876,7 +876,7 @@
     "name": "ReverseAPK",
     "package_name": "ReverseAPK",
     "version": "latest",
-    "category": [null],
+    "category": ["mobile_security"],
     "url": "https://github.com/1N3/ReverseAPK.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -909,7 +909,7 @@
   "SMBrute": {
     "name": "SMBrute",
     "package_name": "SMBrute",
-    "category": [null],
+    "category": ["password_attack"],
     "url": "https://github.com/m4ll0k/SMBrute.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -933,7 +933,7 @@
   "Sn1per": {
     "name": "Sn1per",
     "package_name": "Sn1per",
-    "category": [null],
+    "category": ["vulnerability_scanner"],
     "url": "https://github.com/1N3/Sn1per.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -973,7 +973,7 @@
   "Stitch": {
     "name": "Stitch",
     "package_name": "Stitch",
-    "category": [null],
+    "category": ["remote_access"],
     "url": "https://github.com/nathanlopez/Stitch.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -1005,7 +1005,7 @@
   "Th3inspector": {
     "name": "Th3inspector",
     "package_name": "Th3inspector",
-    "category": [null],
+    "category": ["information_gathering"],
     "url": "https://github.com/Moham3dRiahi/Th3inspector.git",
     "package_manager": "git",
     "dependency": ["perl", "git"]
@@ -1013,7 +1013,7 @@
   "The-Eye": {
     "name": "The-Eye",
     "package_name": "The-Eye",
-    "category": [null],
+    "category": ["exploitation_tools"],
     "url": "https://github.com/EgeBalci/The-Eye.git",
     "package_manager": "git",
     "dependency": ["golang", "git"]
@@ -1021,7 +1021,7 @@
   "TheFatRat": {
     "name": "TheFatRat",
     "package_name": "TheFatRat",
-    "category": [null],
+    "category": ["exploitation_tools"],
     "url": "https://github.com/Screetsec/TheFatRat.git",
     "package_manager": "git",
     "dependency": ["git"]
@@ -1029,7 +1029,7 @@
   "Tool-X": {
     "name": "Tool-X",
     "package_name": "Tool-X",
-    "category": [null],
+    "category": ["termux_os"],
     "url": "https://github.com/Rajkumrdusad/Tool-X.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -1037,7 +1037,7 @@
   "TorStat": {
     "name": "TorStat",
     "package_name": "TorStat",
-    "category": [null],
+    "category": ["information_gathering"],
     "url": "https://github.com/s0cket7/TorStat.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -1045,7 +1045,7 @@
   "Trity": {
     "name": "Trity",
     "package_name": "Trity",
-    "category": [null],
+    "category": ["exploitation_tools"],
     "url": "https://github.com/toxic-ig/Trity.git",
     "package_manager": "git",
     "dependency": ["python", "git"]
@@ -1089,7 +1089,7 @@
   "WPSeku": {
     "name": "WPSeku",
     "package_name": "WPSeku",
-    "category": ["Security"],
+    "category": ["vulnerability_scanner"],
     "url": "https://github.com/m4ll0k/WPSeku.git",
     "package_manager": "git",
     "dependency": ["python", "git"],
@@ -1107,7 +1107,7 @@
   "WebXploiter": {
     "name": "WebXploiter",
     "package_name": "WebXploiter",
-    "category": ["Web Hacking", "Exploitation Tools", "Security"],
+    "category": ["web_application_security", "exploitation_tools"],
     "url": "https://github.com/a0xnirudh/WebXploiter.git",
     "package_manager": "git",
     "dependency": ["python", "git"],
@@ -1143,7 +1143,7 @@
   "Winpayloads": {
     "name": "Winpayloads",
     "package_name": "Winpayloads",
-    "category": ["Exploitation Tools", "Security"],
+    "category": ["exploitation_tools"],
     "url": "https://github.com/nccgroup/Winpayloads.git",
     "package_manager": "git",
     "dependency": ["python", "git"],
@@ -1152,7 +1152,7 @@
   "XAttacker": {
     "name": "XAttacker",
     "package_name": "XAttacker",
-    "category": ["Vulnerability Scanner", "Web Hacking", "Exploitation Tools", "Security"],
+    "category": ["vulnerability_scanner", "web_application_security", "exploitation_tools"],
     "url": "https://github.com/Moham3dRiahi/XAttacker.git",
     "package_manager": "git",
     "dependency": ["perl", "php", "git"],
@@ -1170,7 +1170,7 @@
   "XSStrike": {
     "name": "XSStrike",
     "package_name": "XSStrike",
-    "category": ["Information Gathering", "Web Hacking", "Security"],
+    "category": ["information_gathering", "web_application_security"],
     "url": "https://github.com/s0md3v/XSStrike.git",
     "package_manager": "git",
     "dependency": ["python", "git"],
@@ -1179,7 +1179,7 @@
   "Xshell": {
     "name": "Xshell",
     "package_name": "Xshell",
-    "category": ["Vulnerability Scanner", "Web Hacking", "Security"],
+    "category": ["vulnerability_scanner", "web_application_security"],
     "url": "https://github.com/Manisso/Xshell.git",
     "package_manager": "git",
     "dependency": ["git"],
@@ -1242,7 +1242,7 @@
   "apache2": {
     "name": "apache2",
     "package_name": "apache2",
-    "category": ["Web Server", "Package"],
+    "category": ["web_server", "package"],
     "url": null,
     "package_manager": "package_manager",
     "dependency": [null],
@@ -1251,7 +1251,7 @@
   "apt2": {
     "name": "apt2",
     "package_name": "apt2",
-    "category": ["Information Gathering", "Security"],
+    "category": ["information_gathering"],
     "url": "https://github.com/MooseDojo/apt2.git",
     "package_manager": "git",
     "dependency": ["python", "git"],
@@ -1269,7 +1269,7 @@
   "arp-scan": {
     "name": "arp-scan",
     "package_name": "arp-scan",
-    "category": ["Information Gathering"],
+    "category": ["information_gathering"],
     "url": "https://github.com/royhills/arp-scan.git",
     "package_manager": "git",
     "dependency": ["clang", "gcc", "git"],
@@ -1278,7 +1278,7 @@
   "avet": {
     "name": "avet",
     "package_name": "avet",
-    "category": ["Exploitation Tools"],
+    "category": ["exploitation_tools"],
     "url": "https://github.com/govolution/avet.git",
     "package_manager": "git",
     "dependency": ["clang", "gcc", "git"],
@@ -1287,7 +1287,7 @@
   "bbqsql": {
     "name": "bbqsql",
     "package_name": "bbqsql",
-    "category": ["Vulnerability Scanner"],
+    "category": ["vulnerability_scanner"],
     "url": "https://github.com/Neohapsis/bbqsql.git",
     "package_manager": "git",
     "dependency": ["python", "git"],
@@ -1296,7 +1296,7 @@
   "bed": {
     "name": "bed",
     "package_name": "bed",
-    "category": ["Vulnerability Scanner"],
+    "category": ["vulnerability_scanner"],
     "url": "https://gitlab.com/kalilinux/packages/bed.git",
     "package_manager": "git",
     "dependency": ["perl", "git"],
@@ -1305,7 +1305,7 @@
   "beef": {
     "name": "beef",
     "package_name": "beef",
-    "category": ["Exploitation Tools"],
+    "category": ["exploitation_tools"],
     "url": "https://github.com/beefproject/beef.git",
     "package_manager": "git",
     "dependency": ["ruby", "git"],
@@ -1314,7 +1314,7 @@
   "bettercap": {
     "name": "bettercap",
     "package_name": "bettercap",
-    "category": ["Sniffing & Spoofing"],
+    "category": ["sniffing_and_spoofing"],
     "url": "https://github.com/bettercap/bettercap.git",
     "package_manager": "git",
     "dependency": ["golang", "git"],
@@ -1323,7 +1323,7 @@
   "bing-ip2hosts": {
     "name": "bing-ip2hosts",
     "package_name": "bing-ip2hosts",
-    "category": ["Information Gathering"],
+    "category": ["information_gathering"],
     "url": "https://github.com/urbanadventurer/bing-ip2hosts.git",
     "package_manager": "git",
     "dependency": ["git"],
@@ -1332,7 +1332,7 @@
   "binwalk": {
     "name": "binwalk",
     "package_name": "binwalk",
-    "category": ["Forensics Tools"],
+    "category": ["forensics_tools"],
     "url": "https://github.com/ReFirmLabs/binwalk.git",
     "package_manager": "git",
     "dependency": ["python", "git"],
@@ -1341,7 +1341,7 @@
   "blackbox": {
     "name": "blackbox",
     "package_name": "blackbox",
-    "category": ["Vulnerability Scanner", "Exploitation Tools"],
+    "category": ["vulnerability_scanner", "exploitation_tools"],
     "url": "https://github.com/jothatron/blackbox.git",
     "package_manager": "git",
     "dependency": ["python", "git"],
@@ -1350,7 +1350,7 @@
   "bleachbit" : { 
     "name" : "bleachbit",
     "package_name" : "bleachbit",
-    "category" : [null],
+    "category" : ["forensics_tools"],
     "url" : "https://github.com/bleachbit/bleachbit.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1366,7 +1366,7 @@
   "brutespray" : { 
     "name" : "brutespray",
     "package_name" : "brutespray",
-    "category" : [null],
+    "category" : ["password_attack"],
     "url" : "https://github.com/x90skysn3k/brutespray.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1385,7 +1385,7 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "capstone" : { 
     "name" : "capstone",
@@ -1398,7 +1398,7 @@
   "catphish" : { 
     "name" : "catphish",
     "package_name" : "catphish",
-    "category" : [null],
+    "category" : ["social_engineering"],
     "url" : "https://github.com/ring0lab/catphish.git",
     "package_manager" : "git",
     "dependency" : ["ruby","git"]
@@ -1417,7 +1417,7 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "commix" : { 
     "name" : "commix",
@@ -1438,7 +1438,7 @@
   "cpscan" : { 
     "name" : "cpscan",
     "package_name" : "cpscan",
-    "category" : [null],
+    "category" : ["vulnerability_scanner"],
     "url" : "https://github.com/susmithHCK/cpscan.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1462,7 +1462,7 @@
   "credmap" : { 
     "name" : "credmap",
     "package_name" : "credmap",
-    "category" : [null],
+    "category" : ["password_attack"],
     "url" : "https://github.com/lightos/credmap.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1497,7 +1497,7 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "c" : { 
     "name" : "c",
@@ -1505,7 +1505,7 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "dbd" : { 
     "name" : "dbd",
@@ -1526,7 +1526,7 @@
   "dedsploit" : { 
     "name" : "dedsploit",
     "package_name" : "dedsploit",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/ex0dus-0x/dedsploit.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1534,7 +1534,7 @@
   "demiguise" : { 
     "name" : "demiguise",
     "package_name" : "demiguise",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/nccgroup/demiguise.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1550,7 +1550,7 @@
   "djangohunter" : { 
     "name" : "djangohunter",
     "package_name" : "djangohunter",
-    "category" : [null],
+    "category" : ["web_application_security"],
     "url" : "https://github.com/6IX7ine/djangohunter.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1630,7 +1630,7 @@
   "eaphammer" : { 
     "name" : "eaphammer",
     "package_name" : "eaphammer",
-    "category" : [null],
+    "category" : ["wireless_testing"],
     "url" : "https://github.com/s0lst1c3/eaphammer.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1638,7 +1638,7 @@
   "elpscrk" : { 
     "name" : "elpscrk",
     "package_name" : "elpscrk",
-    "category" : [null],
+    "category" : ["password_attack"],
     "url" : "https://github.com/D4Vinci/elpscrk.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1654,7 +1654,7 @@
   "eternal_scanner" : { 
     "name" : "eternal_scanner",
     "package_name" : "eternal_scanner",
-    "category" : [null],
+    "category" : ["vulnerability_scanner"],
     "url" : "https://github.com/peterpt/eternal_scanner.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1662,7 +1662,7 @@
   "evilginx" : { 
     "name" : "evilginx",
     "package_name" : "evilginx",
-    "category" : [null],
+    "category" : ["social_engineering"],
     "url" : "https://github.com/kgretzky/evilginx.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1686,7 +1686,7 @@
   "ezsploit" : { 
     "name" : "ezsploit",
     "package_name" : "ezsploit",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/rand0m1ze/ezsploit.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -1702,7 +1702,7 @@
   "fbht" : { 
     "name" : "fbht",
     "package_name" : "fbht",
-    "category" : [null],
+    "category" : ["information_gathering"],
     "url" : "https://github.com/chinoogawa/fbht.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1710,7 +1710,7 @@
   "fbvid" : { 
     "name" : "fbvid",
     "package_name" : "fbvid",
-    "category" : [null],
+    "category" : ["information_gathering"],
     "url" : "https://github.com/Tuhinshubhra/fbvid.git",
     "package_manager" : "git",
     "dependency" : ["php","git"]
@@ -1737,7 +1737,7 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "findmyhash" : { 
     "name" : "findmyhash",
@@ -1790,7 +1790,7 @@
   "fsociety" : { 
     "name" : "fsociety",
     "package_name" : "fsociety",
-    "category" : [null],
+    "category" : ["termux_os"],
     "url" : "https://github.com/Manisso/fsociety.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1798,7 +1798,7 @@
   "fuckshitup" : { 
     "name" : "fuckshitup",
     "package_name" : "fuckshitup",
-    "category" : [null],
+    "category" : ["web_application_security"],
     "url" : "https://github.com/Smaash/fuckshitup.git",
     "package_manager" : "git",
     "dependency" : ["php","git"]
@@ -1806,7 +1806,7 @@
   "fuxploider" : { 
     "name" : "fuxploider",
     "package_name" : "fuxploider",
-    "category" : [null],
+    "category" : ["web_application_security"],
     "url" : "https://github.com/almandin/fuxploider.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1814,7 +1814,7 @@
   "gasmask" : { 
     "name" : "gasmask",
     "package_name" : "gasmask",
-    "category" : [null],
+    "category" : ["information_gathering"],
     "url" : "https://github.com/twelvesec/gasmask.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1822,7 +1822,7 @@
   "gcat" : { 
     "name" : "gcat",
     "package_name" : "gcat",
-    "category" : [null],
+    "category" : ["maintaining_access","sniffing_spoofing"],
     "url" : "https://github.com/byt3bl33d3r/gcat.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1830,7 +1830,7 @@
   "get" : { 
     "name" : "get",
     "package_name" : "get",
-    "category" : [null],
+    "category" : ["termux_os","vulnerability_scanner"],
     "url" : "https://github.com/peterpt/get.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -1857,7 +1857,7 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "gobuster" : { 
     "name" : "gobuster",
@@ -1873,7 +1873,7 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "golismero" : { 
     "name" : "golismero",
@@ -1897,7 +1897,7 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "hURL" : { 
     "name" : "hURL",
@@ -1910,7 +1910,7 @@
   "hacktronian" : { 
     "name" : "hacktronian",
     "package_name" : "hacktronian",
-    "category" : [null],
+    "category" : ["termux_os"],
     "url" : "https://github.com/thehackingsage/hacktronian.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -1918,7 +1918,7 @@
   "hakkuframework" : { 
     "name" : "hakkuframework",
     "package_name" : "hakkuframework",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/4shadoww/hakkuframework.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -1985,7 +1985,7 @@
     "category" : ["stress_testing","password_attack"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "iSMTP" : { 
     "name" : "iSMTP",
@@ -2006,7 +2006,7 @@
   "jboss-autopwn" : { 
     "name" : "jboss-autopwn",
     "package_name" : "jboss-autopwn",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/SpiderLabs/jboss-autopwn.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -2062,7 +2062,7 @@
   "killchain" : { 
     "name" : "killchain",
     "package_name" : "killchain",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/ruped24/killchain.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2078,7 +2078,7 @@
   "killshot" : { 
     "name" : "killshot",
     "package_name" : "killshot",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/bahaabdelwahed/killshot.git",
     "package_manager" : "git",
     "dependency" : ["ruby","git"]
@@ -2086,7 +2086,7 @@
   "koadic" : { 
     "name" : "koadic",
     "package_name" : "koadic",
-    "category" : [null],
+    "category" : ["maintaining_access"],
     "url" : "https://github.com/zerosum0x0/koadic.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2094,7 +2094,7 @@
   "kwetza" : { 
     "name" : "kwetza",
     "package_name" : "kwetza",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/sensepost/kwetza.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2102,7 +2102,7 @@
   "leviathan" : { 
     "name" : "leviathan",
     "package_name" : "leviathan",
-    "category" : [null],
+    "category" : ["vulnerability_scanner"],
     "url" : "https://github.com/tearsecurity/leviathan.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2110,7 +2110,7 @@
   "lscript" : { 
     "name" : "lscript",
     "package_name" : "lscript",
-    "category" : [null],
+    "category" : ["termux_os"],
     "url" : "https://github.com/arismelachroinos/lscript.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -2182,7 +2182,7 @@
   "morpheus" : { 
     "name" : "morpheus",
     "package_name" : "morpheus",
-    "category" : [null],
+    "category" : ["post_exploitation"],
     "url" : "https://github.com/r00t-3xp10it/morpheus.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2206,7 +2206,7 @@
   "nWatch" : { 
     "name" : "nWatch",
     "package_name" : "nWatch",
-    "category" : [null],
+    "category" : ["network_scanning"],
     "url" : "https://github.com/s0cket7/nWatch.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2217,7 +2217,7 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "netattack2" : { 
     "name" : "netattack2",
@@ -2238,7 +2238,7 @@
   "netdiscover" : { 
     "name" : "netdiscover",
     "package_name" : "netdiscover",
-    "category" : [null],
+    "category" : ["network_scanning"],
     "url" : "https://github.com/alexxy/netdiscover.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -2249,7 +2249,7 @@
     "category" : ["web_server","package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "nikto" : { 
     "name" : "nikto",
@@ -2273,7 +2273,7 @@
     "category" : ["information_gathering","vulnerability_scanner"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "nodejs" : { 
     "name" : "nodejs",
@@ -2281,12 +2281,12 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "nodexp" : { 
     "name" : "nodexp",
     "package_name" : "nodexp",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/esmog/nodexp.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2294,7 +2294,7 @@
   "noisy" : { 
     "name" : "noisy",
     "package_name" : "noisy",
-    "category" : [null],
+    "category" : ["privacy_anonymization", "sniffing_spoofing"],
     "url" : "https://github.com/1tayH/noisy.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2302,7 +2302,7 @@
   "onioff" : { 
     "name" : "onioff",
     "package_name" : "onioff",
-    "category" : [null],
+    "category" : ["privacy_anonymization", "sniffing_spoofing"],
     "url" : "https://github.com/k4m4/onioff.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2350,7 +2350,7 @@
   "peepdf" : { 
     "name" : "peepdf",
     "package_name" : "peepdf",
-    "category" : [null],
+    "category" : ["forensics_tools"],
     "url" : "https://github.com/jesparza/peepdf.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2361,7 +2361,7 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "php" : { 
     "name" : "php",
@@ -2369,7 +2369,7 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "pixiewps" : { 
     "name" : "pixiewps",
@@ -2406,7 +2406,7 @@
   "pupy" : { 
     "name" : "pupy",
     "package_name" : "pupy",
-    "category" : [null],
+    "category" : ["remote_access"],
     "url" : "https://github.com/n1nj4sec/pupy",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2430,7 +2430,7 @@
   "pybluez" : { 
     "name" : "pybluez",
     "package_name" : "pybluez",
-    "category" : [null],
+    "category" : ["wireless_testing"],
     "url" : "https://github.com/karulis/pybluez.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2438,7 +2438,7 @@
   "pydictor" : { 
     "name" : "pydictor",
     "package_name" : "pydictor",
-    "category" : [null],
+    "category" : ["password_attack"],
     "url" : "https://github.com/LandGrey/pydictor.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2449,12 +2449,12 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "qark" : { 
     "name" : "qark",
     "package_name" : "qark",
-    "category" : [null],
+    "category" : ["mobile_security"],
     "url" : "https://github.com/linkedin/qark.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2470,7 +2470,7 @@
   "rdpy" : { 
     "name" : "rdpy",
     "package_name" : "rdpy",
-    "category" : [null],
+    "category" : ["remote_access"],
     "url" : "https://github.com/citronneur/rdpy.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2521,12 +2521,12 @@
     "category" : ["programming_language"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "sAINT" : { 
     "name" : "sAINT",
     "package_name" : "sAINT",
-    "category" : [null],
+    "category" : ["remote_access"],
     "url" : "https://github.com/tiagorlampert/sAINT.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -2542,7 +2542,7 @@
   "secHub" : { 
     "name" : "secHub",
     "package_name" : "secHub",
-    "category" : [null],
+    "category" : ["termux_os"],
     "url" : "https://github.com/cys3c/secHub.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2558,7 +2558,7 @@
   "shellstack" : { 
     "name" : "shellstack",
     "package_name" : "shellstack",
-    "category" : [null],
+    "category" : ["web_application_security"],
     "url" : "https://github.com/Tuhinshubhra/shellstack.git",
     "package_manager" : "git",
     "dependency" : ["php","git"]
@@ -2566,7 +2566,7 @@
   "shimit" : { 
     "name" : "shimit",
     "package_name" : "shimit",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/cyberark/shimit.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2574,7 +2574,7 @@
   "shodanwave" : { 
     "name" : "shodanwave",
     "package_name" : "shodanwave",
-    "category" : [null],
+    "category" : ["information_gathering"],
     "url" : "https://github.com/6IX7ine/shodanwave.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2710,7 +2710,7 @@
   "subscraper" : { 
     "name" : "subscraper",
     "package_name" : "subscraper",
-    "category" : [null],
+    "category" : ["information_gathering"],
     "url" : "https://github.com/m8r0wn/subscraper.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2734,7 +2734,7 @@
   "termux-lazysqlmap" : { 
     "name" : "termux-lazysqlmap",
     "package_name" : "termux-lazysqlmap",
-    "category" : [null],
+    "category" : ["termux_os"],
     "url" : "https://github.com/verluchie/termux-lazysqlmap.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -2777,12 +2777,12 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "torghost" : { 
     "name" : "torghost",
     "package_name" : "torghost",
-    "category" : [null],
+    "category" : ["privacy_anonymization"],
     "url" : "https://github.com/susmithHCK/torghost.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2801,7 +2801,7 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "trackout" : { 
     "name" : "trackout",
@@ -2822,7 +2822,7 @@
   "trojanizer" : { 
     "name" : "trojanizer",
     "package_name" : "trojanizer",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/r00t-3xp10it/trojanizer.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -2838,7 +2838,7 @@
   "uidsploit" : { 
     "name" : "uidsploit",
     "package_name" : "uidsploit",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/siruidops/uidsploit.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -2865,12 +2865,12 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "wafw00f" : { 
     "name" : "wafw00f",
     "package_name" : "wafw00f",
-    "category" : [null],
+    "category" : ["web_application_security"],
     "url" : "https://github.com/EnableSecurity/wafw00f.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2886,7 +2886,7 @@
   "webpwn3r" : { 
     "name" : "webpwn3r",
     "package_name" : "webpwn3r",
-    "category" : [null],
+    "category" : ["web_application_security"],
     "url" : "https://github.com/zigoo0/webpwn3r.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2902,7 +2902,7 @@
   "weeman" : { 
     "name" : "weeman",
     "package_name" : "weeman",
-    "category" : [null],
+    "category" : ["social_engineering"],
     "url" : "https://github.com/evait-security/weeman.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2910,7 +2910,7 @@
   "weevely3" : { 
     "name" : "weevely3",
     "package_name" : "weevely3",
-    "category" : [null],
+    "category" : ["web_application_security"],
     "url" : "https://github.com/epinna/weevely3.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -2918,7 +2918,7 @@
   "wfdroid-termux" : { 
     "name" : "wfdroid-termux",
     "package_name" : "wfdroid-termux",
-    "category" : [null],
+    "category" : ["termux_os"],
     "url" : "https://github.com/bytezcrew/wfdroid-termux.git",
     "package_manager" : "git",
     "dependency" : ["git"]
@@ -2937,7 +2937,7 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "wifi-hacker" : { 
     "name" : "wifi-hacker",
@@ -3014,7 +3014,7 @@
   "wreckuests" : { 
     "name" : "wreckuests",
     "package_name" : "wreckuests",
-    "category" : [null],
+    "category" : ["web_application_security"],
     "url" : "https://github.com/JamesJGoodwin/wreckuests.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -3062,7 +3062,7 @@
   "zambie" : { 
     "name" : "zambie",
     "package_name" : "zambie",
-    "category" : [null],
+    "category" : ["exploitation_tools"],
     "url" : "https://github.com/zanyarjamal/zambie.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -3078,7 +3078,7 @@
   "zarp" : { 
     "name" : "zarp",
     "package_name" : "zarp",
-    "category" : [null],
+    "category" : ["sniffing_spoofing"],
     "url" : "https://github.com/hatRiot/zarp.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
@@ -3089,12 +3089,12 @@
     "category" : ["package"],
     "url" : null,
     "package_manager" : "package_manager",
-    "dependency" : [null]
+    "dependency" : []
   },
   "zirikatu" : { 
     "name" : "zirikatu",
     "package_name" : "zirikatu",
-    "category" : [null],
+    "category" : ["termux_os"],
     "url" : "https://github.com/pasahitz/zirikatu.git",
     "package_manager" : "git",
     "dependency" : ["git"]

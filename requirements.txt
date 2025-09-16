@@ -1,6 +1,5 @@
-requests>=2.24.0
-# Dependencies of requests
-idna<3,>=2.5
+requests>=2.31.0
+idna>=3.4,<4.0
 certifi>=2017.4.17
 chardet<4,>=3.0.2
 pyyaml>=6.0

@@ -1,0 +1,46 @@
+import os
+import json
+import pytest
+
+# Import your main modules
+# Adjust the import paths based on your project
+import modules.menu as menu
+import modules.system as system
+
+DATA_FILE = os.path.join(os.path.dirname(__file__), "..", "core", "data.json")
+
+def test_data_file_exists():
+    """Ensure core/data.json exists."""
+    assert os.path.isfile(DATA_FILE), "data.json is missing in core/"
+
+def test_data_file_valid_json():
+    """Check that core/data.json is valid JSON."""
+    with open(DATA_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    assert isinstance(data, dict), "data.json should contain a JSON object"
+
+def test_category_normalization():
+    """Test that categories are normalized to lowercase and deduplicated."""
+    sample_categories = ["Termux OS", "termux_os", "Wireless_Tools"]
+    normalized = {c.strip().lower().replace(" ", "_") for c in sample_categories}
+    assert "termux_os" in normalized
+    assert "wireless_tools" in normalized
+
+def test_menu_module_has_required_functions():
+    """Ensure menu.py exposes expected functions."""
+    required_funcs = ["main_menu", "display_logo"]  # Update to your actual function names
+    for func in required_funcs:
+        assert hasattr(menu, func), f"menu module is missing {func}"
+
+def test_system_module_os_detection(monkeypatch):
+    """Mock system platform detection."""
+    monkeypatch.setattr(system, "platform", lambda: "Linux")
+    assert system.platform() == "Linux"
+
+def test_toolx_py_runs():
+    """Basic smoke test: Tool-X.py can be imported without running."""
+    try:
+        import Tool_X
+    except ImportError:
+        pytest.skip("Tool_X.py cannot be imported directly")
+

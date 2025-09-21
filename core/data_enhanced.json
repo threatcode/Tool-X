@@ -46,7 +46,7 @@
     "dependency": [
       "git"
     ],
-    "stars": 1820,
+    "stars": 1823,
     "forks": 283,
     "license": "GPL-3.0",
     "archived": false
@@ -63,7 +63,7 @@
     "dependency": [
       "git"
     ],
-    "stars": 1494,
+    "stars": 1496,
     "forks": 355,
     "license": "MIT",
     "archived": false
@@ -73,8 +73,8 @@
     "package_name": "AndroBugs_Framework",
     "version": "7fd3a2c",
     "category": [
-      "mobile_security",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "mobile_security"
     ],
     "url": "https://github.com/AndroBugs/AndroBugs_Framework.git",
     "package_manager": "git",
@@ -82,8 +82,8 @@
       "python",
       "git"
     ],
-    "stars": 1195,
-    "forks": 351,
+    "stars": 1196,
+    "forks": 352,
     "license": "GPL-3.0",
     "archived": true
   },
@@ -100,8 +100,8 @@
     "dependency": [
       "git"
     ],
-    "stars": 260,
-    "forks": 65,
+    "stars": 261,
+    "forks": 66,
     "license": "GPL-3.0",
     "archived": false
   },
@@ -119,7 +119,7 @@
       "git"
     ],
     "stars": 376,
-    "forks": 115,
+    "forks": 116,
     "license": null,
     "archived": false
   },
@@ -190,7 +190,7 @@
       "php",
       "git"
     ],
-    "stars": 411,
+    "stars": 412,
     "forks": 116,
     "license": null,
     "archived": false
@@ -208,7 +208,7 @@
       "python",
       "git"
     ],
-    "stars": 1100,
+    "stars": 1101,
     "forks": 332,
     "license": "BSD-3-Clause",
     "archived": false
@@ -244,8 +244,8 @@
       "python",
       "git"
     ],
-    "stars": 890,
-    "forks": 250,
+    "stars": 892,
+    "forks": 249,
     "license": "GPL-3.0",
     "archived": false
   },
@@ -262,7 +262,7 @@
       "python",
       "git"
     ],
-    "stars": 814,
+    "stars": 815,
     "forks": 264,
     "license": "NOASSERTION",
     "archived": false
@@ -297,7 +297,7 @@
       "python",
       "git"
     ],
-    "stars": 2117,
+    "stars": 2120,
     "forks": 620,
     "license": null,
     "archived": false
@@ -315,8 +315,8 @@
       "golang",
       "git"
     ],
-    "stars": 2694,
-    "forks": 579,
+    "stars": 2699,
+    "forks": 580,
     "license": "MIT",
     "archived": false
   },
@@ -333,7 +333,7 @@
       "python",
       "git"
     ],
-    "stars": 2466,
+    "stars": 2469,
     "forks": 508,
     "license": "GPL-3.0",
     "archived": false
@@ -351,8 +351,8 @@
       "python",
       "git"
     ],
-    "stars": 1126,
-    "forks": 265,
+    "stars": 1127,
+    "forks": 264,
     "license": "GPL-3.0",
     "archived": false
   },
@@ -369,8 +369,8 @@
       "ruby",
       "git"
     ],
-    "stars": 2369,
-    "forks": 295,
+    "stars": 2373,
+    "forks": 296,
     "license": null,
     "archived": false
   },
@@ -441,7 +441,7 @@
       "python",
       "git"
     ],
-    "stars": 1371,
+    "stars": 1370,
     "forks": 303,
     "license": "Apache-2.0",
     "archived": false
@@ -459,9 +459,9 @@
       "python",
       "git"
     ],
-    "stars": 491,
-    "forks": 137,
-    "license": "MIT",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "CyberScan": {
@@ -477,9 +477,9 @@
       "python",
       "git"
     ],
-    "stars": 448,
-    "forks": 134,
-    "license": "GPL-3.0",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "D-TECT": {
@@ -487,8 +487,8 @@
     "package_name": "D-TECT",
     "version": "8.0",
     "category": [
-      "information_gathering",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "information_gathering"
     ],
     "url": "https://github.com/shawarkhanethicalhacker/D-TECT.git",
     "package_manager": "git",
@@ -1636,8 +1636,8 @@
     "package_name": "RED_HAWK",
     "version": "unknown",
     "category": [
-      "information_gathering",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "information_gathering"
     ],
     "url": "https://github.com/Tuhinshubhra/RED_HAWK.git",
     "package_manager": "git",
@@ -1778,9 +1778,9 @@
     "name": "SET",
     "package_name": "social-engineer-toolkit",
     "category": [
-      "exploitation_tools",
       "sniffing_spoofing",
       "information_gathering",
+      "exploitation_tools",
       "password_attack"
     ],
     "url": "https://github.com/trustedsec/social-engineer-toolkit.git",
@@ -1798,8 +1798,8 @@
     "name": "SH33LL",
     "package_name": "SH33LL",
     "category": [
-      "web_hacking",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "web_hacking"
     ],
     "url": "https://github.com/LOoLzeC/SH33LL.git",
     "package_manager": "git",
@@ -2131,9 +2131,9 @@
       "git"
     ],
     "version": "2.2",
-    "stars": 274,
-    "forks": 87,
-    "license": "BSD-3-Clause",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "Vegile": {
@@ -2148,18 +2148,18 @@
       "git"
     ],
     "version": "2.0",
-    "stars": 739,
-    "forks": 164,
-    "license": "GPL-3.0",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "WAScan": {
     "name": "WAScan",
     "package_name": "WAScan",
     "category": [
-      "web hacking",
+      "vulnerability_scanner",
       "information_gathering",
-      "vulnerability_scanner"
+      "web hacking"
     ],
     "url": "https://github.com/m4ll0k/WAScan.git",
     "package_manager": "git",
@@ -2187,8 +2187,8 @@
       "git"
     ],
     "version": "1.4",
-    "stars": 11,
-    "forks": 6,
+    "stars": null,
+    "forks": null,
     "license": null,
     "archived": false
   },
@@ -2223,10 +2223,10 @@
       "git"
     ],
     "version": "2.0",
-    "stars": 617,
-    "forks": 225,
-    "license": "GPL-2.0",
-    "archived": true
+    "stars": null,
+    "forks": null,
+    "license": null,
+    "archived": false
   },
   "WebXploiter": {
     "name": "WebXploiter",
@@ -2242,9 +2242,9 @@
       "git"
     ],
     "version": "1.2",
-    "stars": 83,
-    "forks": 23,
-    "license": "GPL-3.0",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "WhatWeb": {
@@ -2260,18 +2260,18 @@
       "python",
       "git"
     ],
-    "version": "v0.6.2",
-    "stars": 6062,
-    "forks": 963,
-    "license": "GPL-2.0",
+    "version": "0.5",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "WiFi-Pumpkin": {
     "name": "WiFi-Pumpkin",
     "package_name": "WiFi-Pumpkin",
     "category": [
-      "wireless testing",
-      "security"
+      "security",
+      "wireless testing"
     ],
     "url": "https://github.com/P0cL4bs/WiFi-Pumpkin.git",
     "package_manager": "git",
@@ -2279,18 +2279,18 @@
       "python",
       "git"
     ],
-    "version": "v0.8.7Release",
-    "stars": 3130,
-    "forks": 717,
+    "version": "3.0",
+    "stars": null,
+    "forks": null,
     "license": null,
-    "archived": true
+    "archived": false
   },
   "WifiBruteCrack": {
     "name": "WifiBruteCrack",
     "package_name": "WifiBruteCrack",
     "category": [
-      "wireless testing",
-      "security"
+      "security",
+      "wireless testing"
     ],
     "url": "https://github.com/cinquemb/WifiBruteCrack.git",
     "package_manager": "git",
@@ -2299,9 +2299,9 @@
       "git"
     ],
     "version": "2.1",
-    "stars": 679,
-    "forks": 77,
-    "license": "MIT",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "Winpayloads": {
@@ -2317,18 +2317,18 @@
       "git"
     ],
     "version": "4.0",
-    "stars": 1602,
-    "forks": 331,
-    "license": "Apache-2.0",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "XAttacker": {
     "name": "XAttacker",
     "package_name": "XAttacker",
     "category": [
-      "web_application_security",
+      "vulnerability_scanner",
       "exploitation_tools",
-      "vulnerability_scanner"
+      "web_application_security"
     ],
     "url": "https://github.com/Moham3dRiahi/XAttacker.git",
     "package_manager": "git",
@@ -2338,8 +2338,8 @@
       "git"
     ],
     "version": "5.0",
-    "stars": 1649,
-    "forks": 468,
+    "stars": null,
+    "forks": null,
     "license": null,
     "archived": false
   },
@@ -2357,8 +2357,8 @@
       "git"
     ],
     "version": "3.2",
-    "stars": 11,
-    "forks": 5,
+    "stars": null,
+    "forks": null,
     "license": null,
     "archived": false
   },
@@ -2375,18 +2375,18 @@
       "python",
       "git"
     ],
-    "version": "3.1.6",
-    "stars": 14304,
-    "forks": 2010,
-    "license": "GPL-3.0",
+    "version": "2.1",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "Xshell": {
     "name": "Xshell",
     "package_name": "Xshell",
     "category": [
-      "web_application_security",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "web_application_security"
     ],
     "url": "https://github.com/Manisso/Xshell.git",
     "package_manager": "git",
@@ -2394,8 +2394,8 @@
       "git"
     ],
     "version": "2.5",
-    "stars": 34,
-    "forks": 13,
+    "stars": null,
+    "forks": null,
     "license": null,
     "archived": false
   },
@@ -2412,9 +2412,9 @@
       "git"
     ],
     "version": "1.0",
-    "stars": 190,
-    "forks": 69,
-    "license": "NOASSERTION",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "admin-panel-finder": {
@@ -2431,8 +2431,8 @@
       "git"
     ],
     "version": "3.2",
-    "stars": 177,
-    "forks": 129,
+    "stars": null,
+    "forks": null,
     "license": null,
     "archived": false
   },
@@ -2449,8 +2449,8 @@
       "git"
     ],
     "version": "2.5",
-    "stars": 230,
-    "forks": 45,
+    "stars": null,
+    "forks": null,
     "license": null,
     "archived": false
   },
@@ -2471,18 +2471,18 @@
     "name": "airgeddon",
     "package_name": "airgeddon",
     "category": [
-      "wireless testing",
-      "security"
+      "security",
+      "wireless testing"
     ],
     "url": "https://github.com/v1s1t0r1sh3r3/airgeddon.git",
     "package_manager": "git",
     "dependency": [
       "git"
     ],
-    "version": "v11.52",
-    "stars": 7154,
-    "forks": 1243,
-    "license": "GPL-3.0",
+    "version": "4.0",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "angryFuzzer": {
@@ -2498,8 +2498,8 @@
       "git"
     ],
     "version": "2.3",
-    "stars": 347,
-    "forks": 100,
+    "stars": null,
+    "forks": null,
     "license": null,
     "archived": false
   },
@@ -2507,8 +2507,8 @@
     "name": "apache2",
     "package_name": "apache2",
     "category": [
-      "package",
-      "web_server"
+      "web_server",
+      "package"
     ],
     "url": null,
     "package_manager": "package_manager",
@@ -2562,10 +2562,10 @@
       "gcc",
       "git"
     ],
-    "version": "1.10.0",
-    "stars": 1137,
-    "forks": 161,
-    "license": "GPL-3.0",
+    "version": "2.0.0",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "avet": {
@@ -2582,9 +2582,9 @@
       "git"
     ],
     "version": "1.2",
-    "stars": 1720,
-    "forks": 338,
-    "license": "GPL-3.0",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "bbqsql": {
@@ -2600,9 +2600,9 @@
       "git"
     ],
     "version": "1.0",
-    "stars": 786,
-    "forks": 194,
-    "license": "NOASSERTION",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "bed": {
@@ -2635,9 +2635,9 @@
       "ruby",
       "git"
     ],
-    "version": "v0.5.4.0",
-    "stars": 10439,
-    "forks": 2309,
+    "version": "0.5.0",
+    "stars": null,
+    "forks": null,
     "license": null,
     "archived": false
   },
@@ -2653,10 +2653,10 @@
       "golang",
       "git"
     ],
-    "version": "v2.41.3",
-    "stars": 18112,
-    "forks": 1566,
-    "license": "NOASSERTION",
+    "version": "3.0.0",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "bing-ip2hosts": {
@@ -2670,10 +2670,10 @@
     "dependency": [
       "git"
     ],
-    "version": "v1.0.5",
-    "stars": 131,
-    "forks": 29,
-    "license": "GPL-3.0",
+    "version": "1.2",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "binwalk": {
@@ -2688,18 +2688,18 @@
       "python",
       "git"
     ],
-    "version": "v3.1.0",
-    "stars": 13011,
-    "forks": 1693,
-    "license": "MIT",
+    "version": "2.3",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "blackbox": {
     "name": "blackbox",
     "package_name": "blackbox",
     "category": [
-      "exploitation_tools",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "exploitation_tools"
     ],
     "url": "https://github.com/jothatron/blackbox.git",
     "package_manager": "git",
@@ -2708,9 +2708,9 @@
       "git"
     ],
     "version": "1.1",
-    "stars": 32,
-    "forks": 26,
-    "license": "NOASSERTION",
+    "stars": null,
+    "forks": null,
+    "license": null,
     "archived": false
   },
   "bleachbit": {
@@ -2915,8 +2915,8 @@
     "name": "crackle",
     "package_name": "crackle",
     "category": [
-      "wireless",
-      "exploitation_tools"
+      "exploitation_tools",
+      "wireless"
     ],
     "url": "https://github.com/mikeryan/crackle.git",
     "package_manager": "git",
@@ -3270,8 +3270,8 @@
     "name": "dotdotpwn",
     "package_name": "dotdotpwn",
     "category": [
-      "information_gathering",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "information_gathering"
     ],
     "url": "https://github.com/wireghoul/dotdotpwn.git",
     "package_manager": "git",
@@ -3713,8 +3713,8 @@
     "name": "gcat",
     "package_name": "gcat",
     "category": [
-      "sniffing_spoofing",
-      "maintaining_access"
+      "maintaining_access",
+      "sniffing_spoofing"
     ],
     "url": "https://github.com/byt3bl33d3r/gcat.git",
     "package_manager": "git",
@@ -3731,8 +3731,8 @@
     "name": "get",
     "package_name": "get",
     "category": [
-      "termux",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "termux"
     ],
     "url": "https://github.com/peterpt/get.git",
     "package_manager": "git",
@@ -4587,8 +4587,8 @@
     "name": "nginx",
     "package_name": "nginx",
     "category": [
-      "package",
-      "web_server"
+      "web_server",
+      "package"
     ],
     "url": null,
     "package_manager": "package_manager",
@@ -4631,8 +4631,8 @@
     "name": "nmap",
     "package_name": "nmap",
     "category": [
-      "information_gathering",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "information_gathering"
     ],
     "url": null,
     "package_manager": "package_manager",
@@ -4669,8 +4669,8 @@
     "name": "noisy",
     "package_name": "noisy",
     "category": [
-      "privacy_anonymization",
-      "sniffing_spoofing"
+      "sniffing_spoofing",
+      "privacy_anonymization"
     ],
     "url": "https://github.com/1tayH/noisy.git",
     "package_manager": "git",
@@ -4687,8 +4687,8 @@
     "name": "onioff",
     "package_name": "onioff",
     "category": [
-      "privacy_anonymization",
-      "sniffing_spoofing"
+      "sniffing_spoofing",
+      "privacy_anonymization"
     ],
     "url": "https://github.com/k4m4/onioff.git",
     "package_manager": "git",
@@ -5098,8 +5098,8 @@
     "name": "routersploit",
     "package_name": "routersploit",
     "category": [
-      "exploitation_tools",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "exploitation_tools"
     ],
     "url": "https://github.com/reverse-shell/routersploit.git",
     "package_manager": "git",
@@ -5159,8 +5159,8 @@
     "name": "santet-online",
     "package_name": "santet-online",
     "category": [
-      "stress_testing",
-      "sniffing_spoofing"
+      "sniffing_spoofing",
+      "stress_testing"
     ],
     "url": "https://github.com/Gameye98/santet-online.git",
     "package_manager": "git",
@@ -5316,8 +5316,8 @@
     "name": "slowloris",
     "package_name": "slowloris",
     "category": [
-      "stress_testing",
-      "ddos"
+      "ddos",
+      "stress_testing"
     ],
     "url": "https://github.com/gkbrk/slowloris.git",
     "package_manager": "git",
@@ -5387,9 +5387,9 @@
     "name": "social-engineer-toolkit",
     "package_name": "social-engineer-toolkit",
     "category": [
-      "exploitation_tools",
       "sniffing_spoofing",
       "information_gathering",
+      "exploitation_tools",
       "password_attack"
     ],
     "url": "https://github.com/trustedsec/social-engineer-toolkit.git",
@@ -5407,8 +5407,8 @@
     "name": "sqliv",
     "package_name": "sqliv",
     "category": [
-      "web_hacking",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "web_hacking"
     ],
     "url": "https://github.com/Hadesy2k/sqliv.git",
     "package_manager": "git",
@@ -5425,10 +5425,10 @@
     "name": "sqlmap",
     "package_name": "sqlmap",
     "category": [
-      "exploitation_tools",
-      "web_hacking",
+      "vulnerability_scanner",
       "information_gathering",
-      "vulnerability_scanner"
+      "exploitation_tools",
+      "web_hacking"
     ],
     "url": "https://github.com/sqlmapproject/sqlmap",
     "package_manager": "git",
@@ -5445,9 +5445,9 @@
     "name": "sqlmate",
     "package_name": "sqlmate",
     "category": [
-      "web_hacking",
+      "vulnerability_scanner",
       "information_gathering",
-      "vulnerability_scanner"
+      "web_hacking"
     ],
     "url": "https://github.com/s0md3v/sqlmate.git",
     "package_manager": "git",
@@ -5464,9 +5464,9 @@
     "name": "sqlscan",
     "package_name": "sqlscan",
     "category": [
-      "web_hacking",
+      "vulnerability_scanner",
       "information_gathering",
-      "vulnerability_scanner"
+      "web_hacking"
     ],
     "url": "https://github.com/Cvar1984/sqlscan.git",
     "package_manager": "git",
@@ -5638,9 +5638,9 @@
     "name": "thc-ipv6",
     "package_name": "thc-ipv6",
     "category": [
-      "exploitation_tools",
+      "vulnerability_scanner",
       "information_gathering",
-      "vulnerability_scanner"
+      "exploitation_tools"
     ],
     "url": "https://github.com/vanhauser-thc/thc-ipv6.git",
     "package_manager": "git",
@@ -6154,9 +6154,9 @@
     "name": "wpscan",
     "package_name": "wpscan",
     "category": [
-      "web_hacking",
+      "vulnerability_scanner",
       "information_gathering",
-      "vulnerability_scanner"
+      "web_hacking"
     ],
     "url": "https://github.com/wpscanteam/wpscan.git",
     "package_manager": "git",
@@ -6261,8 +6261,8 @@
     "name": "yersinia",
     "package_name": "yersinia",
     "category": [
-      "exploitation_tools",
-      "vulnerability_scanner"
+      "vulnerability_scanner",
+      "exploitation_tools"
     ],
     "url": "https://github.com/tomac/yersinia.git",
     "package_manager": "git",
